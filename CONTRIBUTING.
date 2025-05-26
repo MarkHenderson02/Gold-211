@@ -1,0 +1,51 @@
+🛠️ Contributing to Gold-211
+Thank you for considering contributing to Gold-211, an advanced encryption framework developed by Enrique Justine Sun. Your contributions are invaluable in enhancing the functionality and reliability of this project.
+
+📜 Code of Conduct
+Please adhere to the Code of Conduct to foster a welcoming and inclusive environment for all contributors.
+
+🤝 How Can I Contribute?
+🐞 Reporting Bugs
+If you encounter any bugs or issues, please:
+1. Search the existing issues to check if the problem has already been reported.
+2. Open a new issue if it hasn't been reported, providing:
+3. A clear and descriptive title.
+4. Steps to reproduce the issue.
+5. Expected and actual behavior.
+6. Screenshots or logs, if applicable.
+
+💡 Suggesting Enhancements
+We welcome suggestions for new features or improvements. To propose an enhancement:
+1. Search the existing issues to avoid duplicates.
+2. Open a new issue with:
+3. A clear and descriptive title.
+4. A detailed explanation of the enhancement.
+5. Any relevant examples or mockups.
+
+🔄 Submitting Pull Requests
+To contribute code:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+git checkout -b feature/your-feature-name
+3. Make your changes, ensuring they adhere to the Style Guide.
+4. Test your changes thoroughly.
+5. Commit your changes with a descriptive message:
+git commit -m "Add feature: your feature description"
+6. Push to your forked repository:
+git push origin feature/your-feature-name
+7. Open a Pull Request against the main branch of the original repository.
+
+Please ensure your pull request includes:
+1. A clear description of the changes.
+2. Reference to the related issue number, if applicable.
+3. Any relevant screenshots or logs.
+
+🎨 Style Guide
+To maintain code consistency:
+1. Language: Python 3.8+
+2. Code Formatting: Use Black for code formatting.
+3. Linting: Use Flake8 to check for code issues.
+4. Documentation: Follow Google Python Style Guide for docstrings and comments.
+
+📄 License
+Gold-211 is licensed under the MIT License. By contributing, you agree that your contributions will be licensed under the same license.
